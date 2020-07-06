@@ -1,0 +1,4 @@
+ida jamais 5demtou b git u will need to sign in fl git un your local machine 
+use these commands 
+$git config --global user.name "Your name here"
+$ git config --global user.email "your_email@example.com"
